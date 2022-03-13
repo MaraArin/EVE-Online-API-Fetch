@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/EVE-Online-Client-Side-API/static/css/main.139e3f82.css",
-    "main.js": "/EVE-Online-Client-Side-API/static/js/main.546f55ff.js",
-    "static/js/787.c5786b08.chunk.js": "/EVE-Online-Client-Side-API/static/js/787.c5786b08.chunk.js",
-    "static/media/logo.svg": "/EVE-Online-Client-Side-API/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/EVE-Online-Client-Side-API/index.html",
-    "main.139e3f82.css.map": "/EVE-Online-Client-Side-API/static/css/main.139e3f82.css.map",
-    "main.546f55ff.js.map": "/EVE-Online-Client-Side-API/static/js/main.546f55ff.js.map",
-    "787.c5786b08.chunk.js.map": "/EVE-Online-Client-Side-API/static/js/787.c5786b08.chunk.js.map"
+    "main.css": "/EVE-Online-API-Fetch/static/css/main.139e3f82.css",
+    "main.js": "/EVE-Online-API-Fetch/static/js/main.c70f1a99.js",
+    "static/js/787.e487dd4f.chunk.js": "/EVE-Online-API-Fetch/static/js/787.e487dd4f.chunk.js",
+    "static/media/logo.svg": "/EVE-Online-API-Fetch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EVE-Online-API-Fetch/index.html",
+    "main.139e3f82.css.map": "/EVE-Online-API-Fetch/static/css/main.139e3f82.css.map",
+    "main.c70f1a99.js.map": "/EVE-Online-API-Fetch/static/js/main.c70f1a99.js.map",
+    "787.e487dd4f.chunk.js.map": "/EVE-Online-API-Fetch/static/js/787.e487dd4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.139e3f82.css",
-    "static/js/main.546f55ff.js"
+    "static/js/main.c70f1a99.js"
   ]
 }
